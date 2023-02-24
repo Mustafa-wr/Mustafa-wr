@@ -1,6 +1,11 @@
 # About Me <br>
 As a Programming student, I have developed a range of skills and knowledge in areas such as C language, data structure, and problem solving, which I have put into practice through projects such as "libft", "push-swap" and there are a lot in my account. You'll find examples of my work. These projects showcase my skills in Programming, as well as my ability to problem solving and code structure. Looking ahead, my professional goal is to be a gaming developer. I believe that my skills and experience make me well-suited to be a developer [CV](https://drive.google.com/file/d/13NCpa897uItPKx6mLCU5uz33BEgusvqc/view?usp=share_link). <br>
 
+# Qualifications
+* Business administration (accounting).
+* Secondary school.
+* currently studying programming at 42abudhabi.
+
 # Skills <br>
 I have a diverse set of skills that allow me to take on any challenge with confidence. Some of my top skills include:<br>
 
