@@ -9,7 +9,7 @@ As a Programming student, I have developed a range of skills and knowledge in ar
 # Skills <br>
 I have a diverse set of skills that allow me to take on any challenge with confidence. Some of my top skills include:<br>
 
-* Programming languages: C, Python, JavaScript<br>
+* Programming languages: C, C++, Python, JavaScript<br>
 * Microsoft office(Word, Excel, Powerpoint)<br>
 * Problem-solving<br>
 
