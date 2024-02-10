@@ -3,7 +3,7 @@ As a Programming student, I have developed a range of skills and knowledge in ar
 
 # Qualifications
 * Business administration (accounting).
-* currently studying programming at 42abudhabi.
+* All 42 projects(C, C++, and Docker experience).
 
 # Skills <br>
 I have a diverse set of skills that allow me to take on any challenge with confidence. Some of my top skills include:<br>
