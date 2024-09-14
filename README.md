@@ -2,7 +2,7 @@
 <!-- <h3 align="center">Software Engineer</h3> -->
 
 <p>
-  I am a passionate software engineer with a strong background in designing and developing efficient, scalable solutions. My experience spans various technologies, including C, C++, Python, and Kubernetes, with a focus on delivering high-quality, performance-driven applications. I am always eager to learn and grow, particularly in the realms of DevOps, AI, and prompt engineering, constantly seeking new challenges to improve my skills and contribute to impactful projects. My journey as a software engineer is driven by curiosity, innovation, and a deep desire to create meaningful software that makes a difference.
+  I am a passionate software engineer with a strong background in designing and developing efficient, scalable solutions. I have extensive hands-on experience with C programming, memory management, and low-level system development. I am passionate about solving complex problems, optimizing code performance, and managing resources efficiently. My goal is to leverage these skills in a software development role, contributing to a dynamic team while continuously learning and evolving in the fast-paced world of technology. With a solid foundation in project development and a strong technical background, I am committed to delivering impactful solutions in any role I undertake.
 </p>
 
 
